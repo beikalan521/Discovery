@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         let a = 5
         let models = [TestModel1]()
+        print("2222")
     }
 
     override func didReceiveMemoryWarning() {
