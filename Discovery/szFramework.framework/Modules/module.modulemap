@@ -1,0 +1,4 @@
+framework module szFramework {
+    header "szFramework-Swift.h"
+    requires objc
+}
