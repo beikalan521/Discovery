@@ -79,7 +79,7 @@ s.homepage     = "http://www.mydc365.cn"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/beikalan521/Discovery.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/beikalan521/Discovery/tree/sz/Discovery.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
